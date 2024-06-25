@@ -1,2 +1,1 @@
-# QUEUE-CampusMedia
-# QUEUE-CampusMedia
+It's a campus-based social network. where students can interact and help each other, discuss, create notes, and upload their questions or important documents and other cool and helpful features are there to help them be more connected to the study and collaborate.
