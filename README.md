@@ -15,6 +15,12 @@
 13. private files <img width="1440" alt="Screenshot 2024-06-26 at 3 33 50 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/8a262fd7-4763-4194-ad15-6a1092a1617d">
 14. Schedule <img width="1440" alt="Screenshot 2024-06-26 at 3 34 57 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/aef648ea-280b-404b-bbaf-94c8ce40a378">
 15. setting <img width="1440" alt="Screenshot 2024-06-26 at 3 35 09 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/5b35367a-bbf7-4e5d-a5da-90b5ab9b24c1">
+16. Dropbox <img width="491" alt="Screenshot 2024-06-26 at 3 35 30 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/6d9545b6-8a6a-400b-a15a-b78436dc6ae2">
+17. pop up's <img width="451" alt="Screenshot 2024-06-26 at 3 36 05 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/852ac4e9-b435-4870-b631-16cc4712c367">
+<img width="456" alt="Screenshot 2024-06-26 at 3 35 57 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/1f5636a8-fdea-4414-b1d5-7c26309b855a">
+<img width="370" alt="Screenshot 2024-06-26 at 3 35 41 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/c1392112-7a9f-4057-9a17-08a076e725c2">
+
+
 
 
 
