@@ -4,6 +4,26 @@
 2. login page <img width="1440" alt="Screenshot 2024-06-26 at 3 31 03 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/dbab3b4d-fb44-4c8d-a661-86c25241771a">
 3. signup <img width="1440" alt="Screenshot 2024-06-26 at 3 31 15 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/e477cace-d34b-4b92-8c9c-2d4206d8948c">
 4. pass recovery <img width="1440" alt="Screenshot 2024-06-26 at 3 31 27 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/9af66761-4586-48c1-aec6-53c5bb183d2f">
+5. Home <img width="1440" alt="Screenshot 2024-06-26 at 3 31 44 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/3337e2f5-f6f8-4c05-b2a4-6a001c50e1de">
+6. Help <img width="1440" alt="Screenshot 2024-06-26 at 3 31 58 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/24b34c34-938c-4176-826b-19aebeb6e8e3">
+7. Answers <img width="1440" alt="Screenshot 2024-06-26 at 3 32 21 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/5c4551b7-04b4-4421-a67a-49918276b41f">
+8. chat <img width="1440" alt="Screenshot 2024-06-26 at 3 32 57 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/6df57ab8-261f-4b17-89b9-125deb88b8aa">
+9. Room <img width="1440" alt="Screenshot 2024-06-26 at 3 33 17 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/7adbd61b-453c-43c8-9af4-2a47b07a006f">
+10. profile <img width="1440" alt="Screenshot 2024-06-26 at 3 33 26 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/b5cb5c7d-b0e7-40b9-b858-9d0cf5ebddbe">
+11. notes <img width="1440" alt="Screenshot 2024-06-26 at 3 33 36 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/4596def6-0046-4de0-a579-de6f09a95d0d">
+12. Questions <img width="1440" alt="Screenshot 2024-06-26 at 3 33 44 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/e9db402a-7fab-4818-ad4a-b320bdc6d89c">
+13. private files <img width="1440" alt="Screenshot 2024-06-26 at 3 33 50 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/8a262fd7-4763-4194-ad15-6a1092a1617d">
+14. Schedule <img width="1440" alt="Screenshot 2024-06-26 at 3 34 57 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/aef648ea-280b-404b-bbaf-94c8ce40a378">
+15. setting <img width="1440" alt="Screenshot 2024-06-26 at 3 35 09 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/5b35367a-bbf7-4e5d-a5da-90b5ab9b24c1">
+
+
+
+
+
+
+
+
+
 
 
 
