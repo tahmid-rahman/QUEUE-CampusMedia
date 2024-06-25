@@ -19,6 +19,23 @@
 17. pop up's <img width="451" alt="Screenshot 2024-06-26 at 3 36 05 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/852ac4e9-b435-4870-b631-16cc4712c367">
 <img width="456" alt="Screenshot 2024-06-26 at 3 35 57 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/1f5636a8-fdea-4414-b1d5-7c26309b855a">
 <img width="370" alt="Screenshot 2024-06-26 at 3 35 41 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/c1392112-7a9f-4057-9a17-08a076e725c2">
+# Control center
+18. control center login <img width="1440" alt="Screenshot 2024-06-26 at 3 46 23 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/ac17036c-3f5e-445a-bd98-6427a5f74951">
+19. home <img width="1439" alt="Screenshot 2024-06-26 at 3 46 45 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/9cb7d843-158a-4dca-a7e0-d692ff9aeafd">
+20. post <img width="1440" alt="Screenshot 2024-06-26 at 3 46 58 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/7ddfbf13-64be-4829-a5ee-47e6944ab402">
+21. help <img width="1437" alt="Screenshot 2024-06-26 at 3 47 06 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/1457c5a8-cb82-43d1-b4e0-9825e126ec16">
+22. answer control <img width="1440" alt="Screenshot 2024-06-26 at 3 47 15 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/1c1f8e31-292c-4e7e-b1c5-8dfab4cd3404">
+23. user <img width="1440" alt="Screenshot 2024-06-26 at 3 47 24 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/ef1ede65-734c-401f-a151-63ed7c6d0df3">
+24. room <img width="1440" alt="Screenshot 2024-06-26 at 3 47 31 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/553c6580-6be2-4a0f-84be-d0fbb2e4bff7">
+25. DropChat <img width="1437" alt="Screenshot 2024-06-26 at 3 47 53 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/3a64f8b3-72cb-4752-9654-e4b32f4aa763">
+26. Moderator profile <img width="1439" alt="Screenshot 2024-06-26 at 3 48 09 AM" src="https://github.com/tahmid-rahman/QUEUE-CampusMedia/assets/61696576/79ecb4aa-9ca2-42ec-8974-a66835b78ef7">
+
+
+
+
+
+
+
 
 
 
